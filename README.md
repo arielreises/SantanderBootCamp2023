@@ -24,8 +24,8 @@ Aqui estão algumas das habilidades que estou desenvolvendo:
 
 [![Perfil na DIO](https://img.shields.io/badge/DIO-Profile-blue?style=for-the-badge&logo=digitalocean)](https://www.dio.me/users/arielreises2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielreises/)
-[![GitHub (Principal)](https://img.shields.io/badge/GitHub-arielreises-black?style=for-the-badge&logo=github)](https://github.com/arielreises)
-[![GitHub (Projetos Pessoais)](https://img.shields.io/badge/GitHub-reisespy-black?style=for-the-badge&logo=github)](https://github.com/reisespy)
+[![GitHub (arielreises)](https://img.shields.io/badge/GitHub-arielreises-black?style=for-the-badge&logo=github)](https://github.com/arielreises)
+[![GitHub (reisespy)](https://img.shields.io/badge/GitHub-reisespy-black?style=for-the-badge&logo=github)](https://github.com/reisespy)
 
 ## Destaques
 
