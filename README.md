@@ -38,6 +38,6 @@ Aqui estão algumas das habilidades que estou desenvolvendo:
 
 Aqui estão alguns dos projetos em que estou trabalhando:
 
-- [Desafio de Código 1](): Em breve...
+- [Desafio de Código 1](https://github.com/arielreises/SantanderBootcamp2023/blob/09a26345a69316e0b2f7fc52e940fc0c88b62e4c/desafio1_arielreises.py)
 
 Fique à vontade para explorar meus repositórios para mais detalhes sobre esses projetos e outros trabalhos.
