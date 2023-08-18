@@ -8,7 +8,7 @@ Ariel Ladislau Reises
 
 ## Sobre Mim
 
-Olá! Sou entusiasta de ciência de dados e apaixonado por tecnologia. Estou participando do Santander Bootcamp 2023 para aprimorar minhas habilidades em ciência de dados e programação em Python. Tenho experiência em [Desenvolvimento de Software](https://github.com/reisespy) e estou empolgado para mergulhar em projetos e aprender com outros profissionais.
+Olá! Sou entusiasta de ciência de dados e apaixonado por tecnologia. Estou participando do Santander Bootcamp 2023 para aprimorar minhas habilidades em ciência de dados e programação em Python. Estudo [Python](https://github.com/reisespy) e estou empolgado aprender mais sobre Ciência de Dados.
 
 ## Skills
 
@@ -24,6 +24,7 @@ Aqui estão algumas das habilidades que estou desenvolvendo:
 
 [![Perfil na DIO](https://img.shields.io/badge/DIO-Profile-blue?style=for-the-badge&logo=digitalocean)](https://www.dio.me/users/arielreises2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielreises/)
+
 [![GitHub (arielreises)](https://img.shields.io/badge/GitHub-arielreises-black?style=for-the-badge&logo=github)](https://github.com/arielreises)
 [![GitHub (reisespy)](https://img.shields.io/badge/GitHub-reisespy-black?style=for-the-badge&logo=github)](https://github.com/reisespy)
 
